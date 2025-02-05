@@ -163,7 +163,7 @@ function HeroGeometric({
             animate="visible"
           >
             <div className=" flex justify-center items-center">
-              <img src="/logo.png" className=" w-2/3" alt="" />
+              <img src="/logo.png" className=" w-2/3" alt={title2} />
             </div>
             <h1 className="text-4xl sm:text-6xl md:text-8xl font-bold mb-6 md:mb-8 tracking-tight">
               <span className="bg-clip-text text-transparent bg-gradient-to-b from-white to-fuchsia/80">
