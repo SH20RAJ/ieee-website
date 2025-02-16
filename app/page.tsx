@@ -4,6 +4,7 @@ import Events from "@/components/ui/landing/Events";
 import Workshops from "@/components/ui/landing/Workshops";
 import AboutUs from "@/components/ui/landing/AboutUs";
 import ContactUs from "@/components/ui/landing/ContactUs";
+import Footer from "@/components/ui/landing/Footer";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <Workshops />
         <AboutUs />
         <ContactUs />
+        <Footer />
       </div>
 
       {/* Gradient overlay */}
