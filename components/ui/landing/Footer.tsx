@@ -8,7 +8,7 @@ const quickLinks = [
     { name: 'Alumni', href: '#alumni' },
     { name: 'Workshops', href: '#workshops' },
     { name: 'About Us', href: '#about' },
-    { name: 'Our Team', href: '#team' },
+    { name: 'Our Team', href: '/team' },
     { name: 'Contact Us', href: '#contact' },
 ]
 

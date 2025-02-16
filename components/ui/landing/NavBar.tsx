@@ -7,7 +7,7 @@ const navLinks = [
   { name: 'Alumni', href: '#alumni' },
   { name: 'Workshops', href: '#workshops' },
   { name: 'About Us', href: '#about' },
-  { name: 'Out Team', href: '#team' },
+  { name: 'Out Team', href: '/team' },
   { name: 'Contact Us', href: '#contact' },
 ]
 
